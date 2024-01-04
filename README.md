@@ -16,7 +16,7 @@ A big thank you to Richard Albert for his insightful and comprehensive course on
 
 ### How to Play
 To play Tappy:
-1.) Locate the **.zip file** by going over to the branches and access the download through the master branch. From there; Click on the file name, then click on raw or the download icon and you'll have access to the download.
+1.) Locate the **.zip file** by clicking on the file name, then click on raw or the download icon and you'll have access to the download.
 2.) Extracted from th the **.zip file** will contain a folder named **Tappy**, within this folder there are three files that can be used:
   - The **.pck** file is a resorce file that can be opened through godot to do as yo pleasse.
   - There are two applications:
