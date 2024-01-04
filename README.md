@@ -15,7 +15,6 @@ Throughout the development of Tappy, I gained hands-on experience with Godot Eng
 A big thank you to Richard Albert for his insightful and comprehensive course on Udemy. His teachings were instrumental in the creation of this game.
 
 ### How to Play
-To play Tappy:
 1.) Locate the **.zip file** by clicking on the file name, then click on raw or the download icon and you'll have access to the download.
 2.) Extracted from th the **.zip file** will contain a folder named **Tappy**, within this folder there are three files that can be used:
   - The **.pck** file is a resorce file that can be opened through godot to do as yo pleasse.
