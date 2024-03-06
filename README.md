@@ -9,7 +9,7 @@ Tappy: A Journey in Game Development
 Tappy is a simple yet captivating game where players navigate through various challenges. It's built with Godot 4 and showcases fundamental aspects of game design and development.
 
 ### Learning Process
-Throughout the development of Tappy, I gained hands-on experience with Godot Engine, learned about game physics, sprite animation, and user interface design. This project has been a cornerstone in understanding the nuances of 2D game development.
+Throughout the development of Tappy, I gained hands-on experience with Godot Engine, learned about game physics, sprite animation, and user interface design. This project has been a cornerstone in understanding the nuances of 2D game development. The godot engine uses its own language called GDScript which consists of C#, C++, and C; all of which I am currently practicing.
 
 ### Acknowledgments
 A big thank you to Richard Albert for his insightful and comprehensive course on Udemy. His teachings were instrumental in the creation of this game.
